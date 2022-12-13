@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php and MySql.**
 
-- 👨‍💻 My Portfolio Site [https://raj4823.github.io/MySite/](https://raj4823.github.io/MySite/)
+- 👨‍💻 Visit my portfolio Site : **[MySite](https://raj4823.github.io/MySite/)**
 
 - 💬 Ask me about **DSA, C++, Designing and UI.**
 
