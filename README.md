@@ -29,7 +29,7 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4823&show_icons=true&theme=dracula&locale=en&layout=compact" alt="raj4823" /></p>
-</br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4823&show_icons=true&theme=dracula&locale=en" alt="raj4823" /></p>
-</br>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4823&theme=dark" alt="raj4823" /></p>
