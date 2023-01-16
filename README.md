@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajpatel_4" target="blank"><img src="https://img.shields.io/twitter/follow/rajpatel_4?logo=twitter&style=for-the-badge" alt="rajpatel_4" /></a> </p>
 
-- 🌱 I’m currently learning **Graphs (Advance Algorithms)**
+- 🌱 I’m currently learning **Graphs (Advance Algorithms) & MERN**
 
 - 👨‍💻 Visit my portfolio Site : **[MySite - Raj Patel](https://raj4823.github.io/MySite/)**
 
