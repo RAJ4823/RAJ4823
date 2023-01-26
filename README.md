@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" style="display:flex;">
+<p style="display:flex;">
 
 <a href="https://twitter.com/rajpatel_4" style="margin:10px;" target="blank"> Twitter</a>
 
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/raj_4" style="margin:10px;" target="blank"> Instagram</a>
 </p>
 
-<p align="left" style="display:flex; ">
+<p style="display:flex;">
 
 <a href="https://www.codechef.com/users/the_247" style="margin:10px;" target="blank"> Codechef</a>
 
