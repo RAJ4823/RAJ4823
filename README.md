@@ -12,21 +12,29 @@
 - ⚡ Fun fact **I love designing and perfection.**
 
 
+
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" style="display:flex;;">
-<a href="https://twitter.com/rajpatel_4" style="margin:10px;" target="blank"> **Twitter**</a>
-<a href="https://linkedin.com/in/raj-4823" style="margin:10px;" target="blank"> **Linkedin**</a>
-<a href="https://instagram.com/raj_4" style="margin:10px;" target="blank"> **Instagram**</a>
-</p>
-
 <p align="left" style="display:flex;">
-<a href="https://www.codechef.com/users/the_247" style="margin:10px;" target="blank"> **Codechef**</a>
-<a href="https://codeforces.com/profile/raj_4" style="margin:10px;" target="blank"> **Codeforces**</a>
-<a href="https://www.leetcode.com/the_247" style="margin:10px;" target="blank"> **LeetCode** </a>
-<a href="https://www.hackerrank.com/raj_4823" style="margin:10px;" target="blank"> **HackerRank**</a>
+
+<a href="https://twitter.com/rajpatel_4" style="margin:10px;" target="blank"> Twitter</a>
+
+<a href="https://linkedin.com/in/raj-4823" style="margin:10px;" target="blank"> Linkedin </a>
+
+<a href="https://instagram.com/raj_4" style="margin:10px;" target="blank"> Instagram</a>
 </p>
 
+<p align="left" style="display:flex; ">
+
+<a href="https://www.codechef.com/users/the_247" style="margin:10px;" target="blank"> Codechef</a>
+
+<a href="https://codeforces.com/profile/raj_4" style="margin:10px;" target="blank"> Codeforces</a>
+
+<a href="https://www.leetcode.com/the_247" style="margin:10px;" target="blank"> LeetCode </a>
+
+<a href="https://www.hackerrank.com/raj_4823" style="margin:10px;" target="blank"> HackerRank</a>  
+
+</p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4823&show_icons=true&theme=dracula&locale=en&layout=compact" alt="raj4823" /></p>
