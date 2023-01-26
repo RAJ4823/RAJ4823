@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Patel</h1>
 <h3 align="center">A passionate Front-end Web Developer and Competitive Coder</h3>
 
-<p align="left"> <a href="https://twitter.com/rajpatel_4" target="blank"><img src="https://img.shields.io/twitter/follow/rajpatel_4?logo=twitter&style=for-the-badge" alt="rajpatel_4" /></a> </p>
-
 - 🌱 I’m currently learning **Graphs (Advance Algorithms) & MERN**
 
 - 👨‍💻 Visit my portfolio Site : **[MySite - Raj Patel](https://raj4823.github.io/MySite/)**
