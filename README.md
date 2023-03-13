@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Patel</h1>
 <h3 align="center">A passionate Front-end Web Developer and Competitive Coder</h3>
 
-- 🌱 I’m currently learning **Graphs (Advance Algorithms) & MERN**
+- 🌱 I’m currently learning **MERN and Chrome Extension Development**
 
 - 👨‍💻 Visit my portfolio Site : **[MySite - Raj Patel](https://raj4823.github.io/MySite/)**
 
