@@ -4,8 +4,8 @@
   <a href="https://raj4823.github.io/MySite/" target="_blank" rel="noreferrer"><img src="https://github.com/RAJ4823/RAJ4823/assets/94529888/e97dea16-e61a-470b-89ed-43a39e395441" alt="Cover GIF"></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Raj Patel</h1>
-<h3 align="center">A passionate MERN Stack Web Developer and Competitive Coder</h3>
+<h3 align="center">Hi there, I'm Raj 👋</h1>
+<h2 align="center">A passionate MERN Stack Web Developer and Competitive Coder</h3>
 
 - 🌱 I’m currently learning **Backend Developement**
 
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I love designing and perfection.**
 
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h3>
 <div style="display:flex;">
   <span>Social Profiles:</span> &nbsp;&nbsp;
   <a href="https://twitter.com/RAJ4823" target="blank">Twitter</a>        &nbsp;
