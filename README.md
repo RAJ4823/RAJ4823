@@ -1,3 +1,9 @@
+<p align="center">
+<!--   <a href="https://raj4823.github.io/MySite/" target="_blank" rel="noreferrer"><img src="https://github.com/RAJ4823/RAJ4823/assets/94529888/8abd6000-d825-4f6e-a093-008dd91ceb98" alt="Cover GIF"></a>
+ -->
+  <a href="https://raj4823.github.io/MySite/" target="_blank" rel="noreferrer"><img src="https://github.com/RAJ4823/RAJ4823/assets/94529888/e97dea16-e61a-470b-89ed-43a39e395441" alt="Cover GIF"></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Raj Patel</h1>
 <h3 align="center">A passionate MERN Stack Web Developer and Competitive Coder</h3>
 
@@ -23,11 +29,11 @@
 <br/>
 
 <div style="display:flex;">
-  <span >CP Profiles:</span>  &nbsp;&nbsp
-  <a href="https://www.codechef.com/users/the_247" style="margin:20px;" target="blank">Codechef</a>  &nbsp;
-  <a href="https://codeforces.com/profile/raj_4" style="margin:20px;" target="blank">Codeforces</a>  &nbsp;
-  <a href="https://www.leetcode.com/the_247" style="margin:20px;" target="blank">LeetCode </a>       &nbsp;
-  <a href="https://www.hackerrank.com/the_247" style="margin:20px;" target="blank">HackerRank</a>    &nbsp;
+  <span >CP Profiles:</span>  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/the_247" target="blank">Codechef</a>  &nbsp;
+  <a href="https://codeforces.com/profile/raj_4" target="blank">Codeforces</a>  &nbsp;
+  <a href="https://www.leetcode.com/the_247" target="blank">LeetCode </a>       &nbsp;
+  <a href="https://www.hackerrank.com/the_247" target="blank">HackerRank</a>    &nbsp;
 </div>
 
 <br/>
