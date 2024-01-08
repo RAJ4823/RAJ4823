@@ -31,7 +31,7 @@
 <div style="display:flex;">
   <span >CP Profiles:</span>  &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/the_247" target="blank">Codechef</a>  &nbsp;
-  <a href="https://codeforces.com/profile/raj_4" target="blank">Codeforces</a>  &nbsp;
+  <a href="https://codeforces.com/profile/the_247" target="blank">Codeforces</a>  &nbsp;
   <a href="https://www.leetcode.com/the_247" target="blank">LeetCode </a>       &nbsp;
   <a href="https://www.hackerrank.com/the_247" target="blank">HackerRank</a>    &nbsp;
 </div>
