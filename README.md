@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Hi there, I'm Raj 👋</h1>
-<h2 align="center">A passionate MERN Stack Web Developer and Competitive Coder</h3>
+<h2 align="center">Software Engineer and Competitive Coder</h3>
 
 - 🌱 I’m currently learning **Backend Developement**
 
