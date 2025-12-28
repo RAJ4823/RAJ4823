@@ -1,7 +1,5 @@
 <p align="center">
-<!--   <a href="https://raj4823.github.io/MySite/" target="_blank" rel="noreferrer"><img src="https://github.com/RAJ4823/RAJ4823/assets/94529888/8abd6000-d825-4f6e-a093-008dd91ceb98" alt="Cover GIF"></a>
- -->
-  <a href="https://raj4823.github.io/MySite/" target="_blank" rel="noreferrer"><img src="https://github.com/RAJ4823/RAJ4823/assets/94529888/e97dea16-e61a-470b-89ed-43a39e395441" alt="Cover GIF"></a>
+  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/wallpaper_logo.jpg" alt="Cover PNG"></a>
 </p>
 
 <h3 align="center">Hi there, I'm Raj 👋</h1>
