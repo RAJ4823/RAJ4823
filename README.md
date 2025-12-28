@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/wallpaper_logo.jpg" alt="Cover PNG"></a> -->
-  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/purple_logo.png" alt="Cover PNG"></a>
+  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/purple_logo.png" height="500" alt="Cover PNG"></a>
 </p>
 
 <h3 align="center">Hi there, I'm Raj 👋</h1>
