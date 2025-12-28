@@ -5,13 +5,13 @@
 </p>
 
 <h3 align="center">Hi there, I'm Raj 👋</h1>
-<h2 align="center">Software Engineer and Competitive Coder</h3>
+<h2 align="center">Full Stack Developer and Software Engineer</h3>
 
 - 🌱 I’m currently learning **Backend Developement**
 
-- 👨‍💻 Visit my portfolio Site : **[MySite - Raj Patel](https://raj4823.github.io/MySite/)**
+- 👨‍💻 Visit my portfolio Site : **[iamraj.dev](https://iamraj.dev)**
 
-- 💬 Ask me about **DSA, C++, Designing and UI.**
+- 💬 Ask me about **DSA, Java, Designing and UI.**
 
 - 📫 Reach me at **halpaniraj.hr4823@gmail.com**
 
@@ -40,9 +40,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&borderRadius=5&fontSize=20&lineHeight=10&lineCount=6&theme=github_dark_red&hideBg=true&line1=HTML5,Html5,E34F26;CSS3,Css3,1572B6;JavaScript,Javascript,F7DF1E;php,php,777BB4;&line2=mongodb,mongodb,47A248;express,express,FFFFFF;React,React,61DAFB;Node.js,node.js,339933;&line3=git,git,F05032;postman,postman,FF6C37;bootstrap,bootstrap,7952B3;linux,linux,FCC624;&line4=Figma,Figma,F24E1E;Canva,Canva,00C4CC;adobephotoshop,photoshop,31A8FF;GoogleChrome,extension,4285F4;&line5=Cplusplus,c%20plus%20plus,00599C;Java,Java,FC4C02;npm,npm,CB3837;github,github,3884FF;&line6=codeforces,codeforces,F6E05E;codechef,codechef,5B4638;LeetCode,LeetCode,FFA116;geeksforgeeks,GFG,2F8D46;" alt="TechStack IMG" />
-  <br/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4823&show_icons=true&theme=dracula&locale=en&layout=compact" alt="raj4823" />
 </div>
 
