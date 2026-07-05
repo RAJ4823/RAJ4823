@@ -1,10 +1,7 @@
 <p align="center">
   <!-- <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/wallpaper_logo.jpg" alt="Cover PNG"></a> -->
-  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/purple_logo.png" height="200" alt="Cover PNG"></a>
+  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/og-images/home.webp" height="200" alt="Cover PNG"></a>
 </p>
-
-<h3 align="center">Hi there, I'm Raj 👋</h1>
-<h2 align="center">Full Stack Developer and Software Engineer</h3>
 
 - 🌱 I’m currently learning **Backend Developement**
 
@@ -12,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Java, Designing and UI.**
 
-- 📫 Reach me at **halpaniraj.hr4823@gmail.com**
+- 📫 Reach me at **contact@iamraj.dev**
 
 - ⚡ Fun fact **I love designing and perfection.**
 
