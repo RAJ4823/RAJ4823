@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/logo/wallpaper_logo.jpg" alt="Cover PNG"></a> -->
-  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/og-images/home.webp" height="200" alt="Cover PNG"></a>
+  <a href="https://iamraj.dev" target="_blank" rel="noreferrer"><img src="https://iamraj.dev/images/og-images/home.webp" alt="Cover PNG"></a>
 </p>
 
 - 🌱 I’m currently learning **Backend Developement**
